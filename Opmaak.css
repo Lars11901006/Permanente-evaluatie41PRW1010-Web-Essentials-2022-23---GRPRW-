@@ -1,0 +1,26 @@
+nav{
+    border: black;
+    border-collapse: collapse;
+    background-color: black;
+    width: 100%;
+
+}
+a{
+    cursor: pointer;
+    text-decoration: none;
+
+}
+nav ul{
+    list-style: none;
+    text-align: left;
+}
+nav ul li{
+    display: inline;
+    margin: 10px
+}
+nav ul li a{
+    font-size: 20px;
+    text-transform: uppercase;
+    color: white;
+
+}
